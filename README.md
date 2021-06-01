@@ -19,7 +19,7 @@ Please contact me through email: jimmypark44@gmail.com
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </div>
-
+<hr>
 
 <!-- <div align="center" style="display:flex"> -->
 <div>
