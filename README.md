@@ -20,13 +20,16 @@ Please contact me through email: jimmypark44@gmail.com
 </div>
 
 
-
 <!-- <div align="center" style="display:flex"> -->
 <div>
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=player31-kks&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+    
 </div>
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmypark44)
+
 <!--
 **jimmypark44/jimmypark44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
