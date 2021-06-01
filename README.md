@@ -8,13 +8,14 @@ Please contact me through email: jimmypark44@gmail.com
 <!-- <h3 align=center>🎇 Main Stack</h3> -->
 <!-- <div align=center style="display:flex"> -->
 <div>
+    <h3> I'm used to </h3>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <h3>  🙋 I've used at least once  </h3>
+    <h3> I've used </h3>
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </div>
