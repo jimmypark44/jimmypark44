@@ -6,8 +6,8 @@ I'm currently interested in <img src="https://img.shields.io/badge/TypeScript-31
 Please contact me through email: jimmypark44@gmail.com
 
 <!-- <h3 align=center>🎇 Main Stack</h3> -->
-<!-- <div align=center style="display:flex"> -->
-<div>
+<div align=center style="display:flex">
+<!-- <div> -->
     <h3> I'm used to </h3>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
