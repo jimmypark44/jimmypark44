@@ -5,8 +5,9 @@ I'm currently interested in Typescript.
 
 Please contact me through email: jimmypark44@gmail.com
 
-<h3 align=center>🎇 Main Stack</h3>
-<div align=center style="display:flex">
+<!-- <h3 align=center>🎇 Main Stack</h3> -->
+<!-- <div align=center style="display:flex"> -->
+<div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -20,10 +21,9 @@ Please contact me through email: jimmypark44@gmail.com
 
 
 
-<div align="center" style="display:flex">
-    
+<!-- <div align="center" style="display:flex"> -->
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=player31-kks&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmypark44)
