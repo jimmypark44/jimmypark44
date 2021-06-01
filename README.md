@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm HyunJun Jimmy Park
 
-I'm currently interested in Typescript.
+I'm currently interested in <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>.
 
 Please contact me through email: jimmypark44@gmail.com
 
