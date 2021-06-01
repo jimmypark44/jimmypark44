@@ -2,7 +2,8 @@
 I'm HyunJun Jimmy Park
 
 I'm currently interested in Typescript.
-My email is jimmypark44@gmail.com
+
+Please contact me through email: jimmypark44@gmail.com
 
 <h3 align=center>🎇 Main Stack</h3>
 <div align=center style="display:flex">
