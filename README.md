@@ -24,7 +24,7 @@ Please contact me through email: jimmypark44@gmail.com
 <!-- <div align="center" style="display:flex"> -->
 <!-- <div>
      -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonginju&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmypark44&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmypark44)
 
 <!--
